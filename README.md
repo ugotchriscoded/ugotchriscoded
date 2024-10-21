@@ -10,11 +10,8 @@ My only work experience has been a 3-month internship at the independent film pr
 
 I am currently studying a Bootcamp: Cloud AWS re/Start from Arrabal-F5 Association to get the AWS Certfication.
 
-## Contact me
-* Mail: chrisdobadoglez@gmail.com
-* Linkedin: https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/>Valeria Dobado Gonzalez</p>
 
-## Programs
+## Tools
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=181717&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Git' src='https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032&color=FFFFFF'/></a>
@@ -23,10 +20,16 @@ I am currently studying a Bootcamp: Cloud AWS re/Start from Arrabal-F5 Associati
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Blender' src='https://img.shields.io/badge/Blender-100000?style=for-the-badge&logo=Blender&logoColor=white&labelColor=E87D0D&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Adobe photoshop' src='https://img.shields.io/badge/Photoshop-100000?style=for-the-badge&logo=Adobe photoshop&logoColor=white&labelColor=31A8FF&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
-
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='davinci resolve' src='https://img.shields.io/badge/DaVinci-100000?style=for-the-badge&logo=davinci resolve&logoColor=white&labelColor=233A51&color=FFFFFF'/></a>
+  
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
+
+## Contact me
+* Mail: chrisdobadoglez@gmail.com
+* Linkedin: https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/
+  
 ---
 ![Banner agradecimiento](https://github.com/user-attachments/assets/ed442e61-0446-4eaf-bd11-02652e848ee8)
 
