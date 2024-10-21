@@ -23,6 +23,10 @@ I am currently studying a Bootcamp: Cloud AWS re/Start from Arrabal-F5 Associati
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='davinci resolve' src='https://img.shields.io/badge/DaVinci-100000?style=for-the-badge&logo=davinci resolve&logoColor=white&labelColor=233A51&color=FFFFFF'/></a>
   
 ---
+![ugotchriscoded's Stats](https://github-readme-stats.vercel.app/api?username=ugotchriscoded&theme=default&show_icons=true&hide_border=true&count_private=false)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ugotchriscoded)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 
