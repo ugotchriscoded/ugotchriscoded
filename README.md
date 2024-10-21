@@ -4,11 +4,11 @@
 # About me
 #### Senior technician in 3D Animation, Games and Interactive Environments
 ---
-I have a degree in 3D Animations, Games and Interactive Environments from MEDAC NOVA and I intend to continue expanding my studies.
+I have a degree in 3D Animations, Games and Interactive Environments from **MEDAC NOVA**.
 
-My only work experience has been a 3-month internship at the independent film producer Kandale Films, where I worked as an editor and video editor, collaborating in the execution of a trailer for a documentary, web design for the company and documentation for present audiovisual proposals.
+My only work experience has been an internship at **Kandale Films**, where I worked as a video editor, collaborating in the execution of a trailer for a documentary, web design for the company and documentation for audiovisual proposals.
 
-I am currently studying a Bootcamp: Cloud AWS re/Start from Arrabal-F5 Association to get the AWS Certfication.
+I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Association** to get the AWS Certfication.
 
 
 ## Tools
