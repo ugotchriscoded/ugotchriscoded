@@ -2,13 +2,13 @@
 ![Banner bienvenida](https://github.com/user-attachments/assets/2d470db8-6b88-4893-977a-057ef5864d09)
 
 # About me
-#### Senior technician in 3D Animation, Games and Interactive Environments
+#### Junior technician in 3D Animation, Games and Interactive Environments
 ---
 I have a degree in 3D Animations, Games and Interactive Environments from **MEDAC NOVA**.
 
 My only work experience has been an internship at **Kandale Films**, where I worked as a video editor, collaborating in the execution of a trailer for a documentary, web design for the company and documentation for audiovisual proposals.
 
-I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Association** to get the AWS Certfication.
+I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Association** to get the **AWS Certfication**.
 
 
 ## Tools
@@ -31,7 +31,6 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 
 
 ## Contact me
-* Mail: chrisdobadoglez@gmail.com
 * Linkedin: https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/
   
 ---
