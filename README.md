@@ -18,7 +18,7 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Slack' src='https://img.shields.io/badge/Slack-100000?style=for-the-badge&logo=Slack&logoColor=white&labelColor=4A154B&color=FFFFFF'/></a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Blender' src='https://img.shields.io/badge/Blender-100000?style=for-the-badge&logo=Blender&logoColor=white&labelColor=E87D0D&color=FFFFFF'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Adobe photoshop' src='https://img.shields.io/badge/Photoshop-100000?style=for-the-badge&logo=Adobe photoshop&logoColor=white&labelColor=31A8FF&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='photopea' src='https://img.shields.io/badge/Photoshop-100000?style=for-the-badge&logo=photopea&logoColor=white&labelColor=18A497&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='davinci resolve' src='https://img.shields.io/badge/DaVinci-100000?style=for-the-badge&logo=davinci resolve&logoColor=white&labelColor=233A51&color=FFFFFF'/></a>
   
