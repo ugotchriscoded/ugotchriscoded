@@ -16,11 +16,20 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=181717&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Git' src='https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Slack' src='https://img.shields.io/badge/Slack-100000?style=for-the-badge&logo=Slack&logoColor=white&labelColor=4A154B&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='xampp' src='https://img.shields.io/badge/XAMPP-100000?style=for-the-badge&logo=xampp&logoColor=white&labelColor=FB7A24&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='laravel' src='https://img.shields.io/badge/Laravel-100000?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='php' src='https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E&color=FFFFFF'/></a>
+
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Blender' src='https://img.shields.io/badge/Blender-100000?style=for-the-badge&logo=Blender&logoColor=white&labelColor=E87D0D&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='photopea' src='https://img.shields.io/badge/Photoshop-100000?style=for-the-badge&logo=photopea&logoColor=white&labelColor=18A497&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='davinci resolve' src='https://img.shields.io/badge/DaVinci-100000?style=for-the-badge&logo=davinci resolve&logoColor=white&labelColor=233A51&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Json' src='https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=Json&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cloudinary' src='https://img.shields.io/badge/Cloudinary-100000?style=for-the-badge&logo=Cloudinary&logoColor=white&labelColor=3448C5&color=FFFFFF'/></a>
   
 ---
 ![ugotchriscoded's Stats](https://github-readme-stats.vercel.app/api?username=ugotchriscoded&theme=default&show_icons=true&hide_border=true&count_private=false)
