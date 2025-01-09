@@ -27,7 +27,7 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ugotchriscoded)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugotchriscoded_count=8)
 
 
 ## Contact me
