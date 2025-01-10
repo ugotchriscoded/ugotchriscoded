@@ -31,6 +31,7 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cloudinary' src='https://img.shields.io/badge/Cloudinary-100000?style=for-the-badge&logo=Cloudinary&logoColor=white&labelColor=3448C5&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jira' src='https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira&logoColor=white&labelColor=0052CC&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB&color=FFFFFF'/></a>
+<a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=5865F2&color=FFFFFF'/></a>
   
 ---
 ![ugotchriscoded's Stats](https://github-readme-stats.vercel.app/api?username=ugotchriscoded&theme=default&show_icons=true&hide_border=true&count_private=false)
@@ -38,8 +39,10 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ugotchriscoded)](https://git.io/streak-stats)
 
 
-## Contact me
-* Linkedin: https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/
+## Contact
+<a href='https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0e76a8&color=0e76a8'/></a>
+<a href='https://www.instagram.com/rata.nuklear/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/My_portfolio-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=C13584&color=C13584'/></a>
+<a href='' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email_(ask)-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=CA4038&color=CA4038'/></a>
   
 ---
 ![Banner agradecimiento](https://github.com/user-attachments/assets/ed442e61-0446-4eaf-bd11-02652e848ee8)
