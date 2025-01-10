@@ -24,12 +24,13 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Blender' src='https://img.shields.io/badge/Blender-100000?style=for-the-badge&logo=Blender&logoColor=white&labelColor=E87D0D&color=FFFFFF'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='photopea' src='https://img.shields.io/badge/Photoshop-100000?style=for-the-badge&logo=photopea&logoColor=white&labelColor=18A497&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='davinci resolve' src='https://img.shields.io/badge/DaVinci-100000?style=for-the-badge&logo=davinci resolve&logoColor=white&labelColor=233A51&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Json' src='https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=Json&logoColor=white&labelColor=000000&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cloudinary' src='https://img.shields.io/badge/Cloudinary-100000?style=for-the-badge&logo=Cloudinary&logoColor=white&labelColor=3448C5&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jira' src='https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira&logoColor=white&labelColor=0052CC&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB&color=FFFFFF'/></a>
   
 ---
 ![ugotchriscoded's Stats](https://github-readme-stats.vercel.app/api?username=ugotchriscoded&theme=default&show_icons=true&hide_border=true&count_private=false)
