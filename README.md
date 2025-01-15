@@ -40,7 +40,7 @@ I am currently studying a Bootcamp: **Cloud AWS re/Start** from **Arrabal-F5 Ass
 
 
 ## Contact
-<a href='https://www.linkedin.com/in/valeria-dobado-gonz%C3%A1lez-262060328/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0e76a8&color=0e76a8'/></a>
+<a href='https://www.linkedin.com/in/valeria-dobado-gonzález/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0e76a8&color=0e76a8'/></a>
 <a href='https://www.instagram.com/rata.nuklear/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/My_portfolio-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=C13584&color=C13584'/></a>
 <a href='' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email_(ask)-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=CA4038&color=CA4038'/></a>
   
